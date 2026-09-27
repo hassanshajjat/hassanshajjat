@@ -24,6 +24,23 @@ My interests revolve around **security, networks, Linux, programming, and secure
 > **Break it. Understand it. Secure it.**
 
 ---
+## 02 / SECURITY FOCUS
+
+<div align="center">
+
+| AREA | EXPLORING |
+|:---:|:---:|
+| 🔐 | **Web Security** |
+| 🌐 | **Network Security** |
+| 🐧 | **Linux & Systems** |
+| 🧩 | **Vulnerability Analysis** |
+| 🛠️ | **Secure Development** |
+
+</div>
+
+> *Learning security means understanding both how systems work — and where they can go wrong.*
+
+---
 
 <!--
 **hassanshajjat/hassanshajjat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
