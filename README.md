@@ -80,7 +80,24 @@ My interests revolve around **security, networks, Linux, programming, and secure
 </div>
 
 ---
-<!---
+## 05 / CURRENTLY EXPLORING
+
+<div align="center">
+
+`CYBERSECURITY` · `LINUX` · `NETWORKING` · `WEB SECURITY`
+
+<br><br>
+
+**Learning → Experimenting → Building**
+
+<br>
+
+Exploring how systems communicate,  
+how vulnerabilities emerge, and how secure software is built.
+
+</div>
+
+---<!---
 
 ## 04 / SECURITY CONSOLE
 
