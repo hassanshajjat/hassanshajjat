@@ -1,4 +1,29 @@
-## Hi there 👋
+<div align="center">
+
+# SHAJJAT HASSAN
+
+### CYBERSECURITY • SYSTEMS • CODE
+
+*Curious about what happens beneath the interface —  
+how systems are built, how they fail, and how they can be made more secure.*
+
+<br>
+
+`SECURITY` · `LINUX` · `NETWORKING` · `DEVELOPMENT`
+
+</div>
+
+---
+
+## 01 / PROFILE
+
+I'm a CSE student exploring the world of cybersecurity with a focus on understanding systems rather than simply using them.
+
+My interests revolve around **security, networks, Linux, programming, and secure software development** — constantly learning, experimenting, and building along the way.
+
+> **Break it. Understand it. Secure it.**
+
+---
 
 <!--
 **hassanshajjat/hassanshajjat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
