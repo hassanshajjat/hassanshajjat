@@ -69,8 +69,28 @@ My interests revolve around **security, networks, Linux, programming, and secure
   <i>Tools change. Curiosity doesn't.</i>
 </p>
 
+------
+
+## 04 / SECURITY CONSOLE
+
+<div align="center">
+
+<img src="./assets/security-console.svg" width="900">
+
+</div>
+
 ---
-<!--
+<!---
+
+## 04 / SECURITY CONSOLE
+
+<div align="center">
+
+<img src="./assets/security-console.svg" width="900">
+
+</div>
+
+-----
 **hassanshajjat/hassanshajjat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
