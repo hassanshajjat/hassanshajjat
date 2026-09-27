@@ -1,0 +1,103 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="320" rx="18" fill="#0b0f14"/>
+  <rect x="1" y="1" width="898" height="318" rx="18" fill="none" stroke="#303944"/>
+
+  <text x="42" y="48"
+        fill="#f0f3f6"
+        font-family="monospace"
+        font-size="18"
+        font-weight="bold">
+    SHAJJAT // SECURITY CONSOLE
+  </text>
+
+  <text x="42" y="72"
+        fill="#7d8793"
+        font-family="monospace"
+        font-size="11">
+    PERSONAL SECURITY LAB • SYSTEM MONITOR
+  </text>
+
+  <line x1="42" y1="92" x2="858" y2="92" stroke="#303944"/>
+
+  <circle cx="58" cy="122" r="6" fill="#3ddc84"/>
+
+  <text x="76" y="127"
+        fill="#f0f3f6"
+        font-family="monospace"
+        font-size="13">
+    SYSTEM STATUS
+  </text>
+
+  <text x="230" y="127"
+        fill="#3ddc84"
+        font-family="monospace"
+        font-size="13"
+        font-weight="bold">
+    ONLINE
+  </text>
+
+  <text x="42" y="166"
+        fill="#7d8793"
+        font-family="monospace"
+        font-size="11">
+    SECURITY MODE
+  </text>
+
+  <text x="42" y="190"
+        fill="#f0f3f6"
+        font-family="monospace"
+        font-size="15">
+    LEARNING / BUILDING
+  </text>
+
+  <text x="330" y="166"
+        fill="#7d8793"
+        font-family="monospace"
+        font-size="11">
+    CURRENT FOCUS
+  </text>
+
+  <text x="330" y="190"
+        fill="#f0f3f6"
+        font-family="monospace"
+        font-size="15">
+    WEB • LINUX • NETWORKS
+  </text>
+
+  <text x="42" y="238"
+        fill="#7d8793"
+        font-family="monospace"
+        font-size="11">
+    ACTIVITY
+  </text>
+
+  <text x="42" y="264"
+        fill="#f0f3f6"
+        font-family="monospace"
+        font-size="13">
+    [01] studying systems
+  </text>
+
+  <text x="270" y="264"
+        fill="#f0f3f6"
+        font-family="monospace"
+        font-size="13">
+    [02] analyzing vulnerabilities
+  </text>
+
+  <text x="610" y="264"
+        fill="#f0f3f6"
+        font-family="monospace"
+        font-size="13">
+    [03] building
+  </text>
+
+  <line x1="42" y1="286" x2="858" y2="286" stroke="#303944"/>
+
+  <text x="42" y="307"
+        fill="#68727e"
+        font-family="monospace"
+        font-size="10">
+    curiosity → research → experiment → secure
+  </text>
+</svg>
