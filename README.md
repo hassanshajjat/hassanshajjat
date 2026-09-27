@@ -41,7 +41,35 @@ My interests revolve around **security, networks, Linux, programming, and secure
 > *Learning security means understanding both how systems work — and where they can go wrong.*
 
 ---
+## 03 / TECH STACK
 
+<div align="center">
+
+### LANGUAGES
+
+`C` · `C++` · `Python` · `Java` · `JavaScript`
+
+### WEB
+
+`HTML` · `CSS` · `JavaScript`
+
+### SYSTEMS & TOOLS
+
+`Linux` · `Git` · `GitHub` · `VS Code`
+
+### SECURITY
+
+`Networking` · `Web Security` · `Vulnerability Analysis`
+
+</div>
+
+---
+
+<p align="center">
+  <i>Tools change. Curiosity doesn't.</i>
+</p>
+
+---
 <!--
 **hassanshajjat/hassanshajjat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
